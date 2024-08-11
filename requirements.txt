@@ -1,0 +1,9 @@
+pinecone_client
+python-dotenv
+jupyter
+pandas
+numpy
+datasets
+uvicorn
+gunicorn
+fastapi

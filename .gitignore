@@ -1,0 +1,6 @@
+.env
+data_zip.zip 
+/__pycache__
+/.ipynb_checkpoints
+/.venv
+*.json
